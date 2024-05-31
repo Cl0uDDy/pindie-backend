@@ -1,5 +1,5 @@
 const allowedCors = [
-  "https://clouddy-pindie-backend.nomorepartiesco.ru",
+  "https://clouddy-pindie-frontend.nomorepartiesco.ru",
 ];
 
 function cors(req, res, next) {
